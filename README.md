@@ -7,6 +7,4 @@ Used Github Desktop to clone the repo, edited and saved on Visual Studio Code, t
 
 Edited on Visual Studio Code, used Visual Studio Code's terminal to add file, commit file, and push file on 2021/02/05 at 11:56
 
-ABCDEFGHIJKLMNOPQURSTUVWXYZ Alphabet on new branch on 2021/05/2021 at 15:59
-
-Let's try again to commit to the alphabet branch and push to origin using github desktop
+ABCDEFGHIJKLMNOPQURSTUVWXYZ Alphabet on new branch
