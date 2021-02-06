@@ -8,5 +8,3 @@ Used Github Desktop to clone the repo, edited and saved on Visual Studio Code, t
 Edited on Visual Studio Code, used Visual Studio Code's terminal to add file, commit file, and push file on 2021/02/05 at 11:56
 
 ABCDEFGHIJKLMNOPQURSTUVWXYZ Alphabet on new branch
-
-Testing testing
